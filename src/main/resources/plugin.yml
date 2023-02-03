@@ -1,0 +1,6 @@
+name: NewPlayerWorld Maski
+version: '${project.version}'
+main: com.mcmiddleearth.newplayerworldmaski.NewPlayerWorldMaski
+api-version: 1.19
+authors: [ Jubo ]
+description: NewPlayerWorld Listener
