@@ -2,8 +2,7 @@ package com.mcmiddleearth.newplayerworldmaski.util;
 
 public enum Permissions {
 
-    STAFF       ("npw.staff"),
-    USER        ("now.user");
+    STAFF       ("npw.staff");
 
     private final String permissionNode;
 
